@@ -29,7 +29,7 @@
 
 <details open="">
   <p align="center">
-   <a href="[https://github.com/Ravshanbekov/Ravshanbekov](https://github.com/FarruxbekNozimov)">
+   <a href="https://github.com/Qahhor2002/Qahhor2002">
        <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
