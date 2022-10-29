@@ -20,9 +20,9 @@
 <p>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
     <code><img width="10%" src="https://img.icons8.com/color/452/c-programming.png"></code>
-    <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-    <code><img width="10%" src="https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png"></code>
-    <code><img width="30%" src="https://codershire.com/wp-content/uploads/2019/01/net1.png"></code>
+    <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+    <code><img width="8%" src="https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png"></code>
+    <code><img width="18%" src="https://codershire.com/wp-content/uploads/2019/01/net1.png"></code>
 </p>
 
 <p align="center">
