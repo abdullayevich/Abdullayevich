@@ -22,7 +22,7 @@
     <code><img width="10%" src="https://img.icons8.com/color/452/c-programming.png"></code>
     <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
     <code><img width="10%" src="https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png"></code>
-    <code><img width="10%" src="[https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png?20200524040737)"></code>
+    <code><img width="10%" src="https://codershire.com/wp-content/uploads/2019/01/net1.png"></code>
 </p>
 
 <p align="center">
