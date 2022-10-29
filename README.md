@@ -30,7 +30,7 @@
 <hr>
 <details open="">
   <p align="center">
-   <a href="https://github.com/Qahhor2002/Qahhor2002">
+   <a href="https://github.com/Abdullayevich/Abdullayevich">
        <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
