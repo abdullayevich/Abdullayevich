@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>I'm >NET Software Engineer!👨🏻‍💻</h3>
+<h3>I'm .NET Software Engineer!👨🏻‍💻</h3>
 
 - 💬 Ask me about Websites
 - 📫 How to reach me: 
