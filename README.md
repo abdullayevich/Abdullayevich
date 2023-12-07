@@ -7,9 +7,17 @@
 - 💬 Ask me about Websites
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/qahhor-xurramov-31180a257/">[LinkedIn]</a>
-<a href="https://github.com/abdullayevich">[Github]</a>
-<a href="https://www.linkedin.com/in/qahhor-xurramov-31180a257/">[Telegram]</a>
-<a href="https://t.me/xurramovqahhor">[Instagram]</a>
+<a href="https://t.me/xurramovqahhor">[Telegram]</a>
+
+## 🔗 Links
+
+<p align="left">
+  <a title="Gmail" href="mailto:nurmamatovnodirbek43@gmail.com"><img width="40" src="./gfx/icons/gmail.png"></a> 
+  <a title="Instagram" href="https://www.instagram.com/xurramov_qahhor/"><img width="40" src="./gfx/icons/instagram.png"></a> 
+  <a title="GitHub" href="https://github.com/Abdullayevich"><img width="40" src="./gfx/icons/github.png"></a> 
+  <a title="LinkedIn" href="https://www.linkedin.com/in/qahhor-xurramov/"><img width="40" src="./gfx/icons/linkedin.png"></a> 
+  <a title="LeetCode" href="https://leetcode.com/nurmamatovnodirbek43/"><img width="35" src="./gfx/icons/leetcode.svg"></a>  
+</p>
 
 
 ## 📊 Github Stats ⚡
@@ -23,7 +31,7 @@
 
 ### 👨‍💻 Programming Languages
 
-![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
 
 ### 🧰 Frameworks and libraries
@@ -82,7 +90,7 @@
 <details open="">
   <p align="center">
    <a href="https://github.com/Abdullayevich/Abdullayevich">
-       <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+       <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
   </p>
 </details>
 <hr>
