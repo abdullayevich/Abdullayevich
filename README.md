@@ -15,8 +15,9 @@
   <a title="Gmail" href="mailto:nurmamatovnodirbek43@gmail.com"><img width="40" src="./gfx/icons/gmail.png"></a> 
   <a title="Instagram" href="https://www.instagram.com/xurramov_qahhor/"><img width="40" src="./gfx/icons/instagram.png"></a> 
   <a title="GitHub" href="https://github.com/Abdullayevich"><img width="40" src="./gfx/icons/github.png"></a> 
-  <a title="LinkedIn" href="https://www.linkedin.com/in/qahhor-xurramov/"><img width="40" src="./gfx/icons/linkedin.png"></a> 
-  <a title="LeetCode" href="https://leetcode.com/nurmamatovnodirbek43/"><img width="35" src="./gfx/icons/leetcode.svg"></a>  
+  <a title="LinkedIn" href="https://www.linkedin.com/in/qahhor-xurramov-31180a257/"><img width="40" src="./gfx/icons/linkedin.png"></a> 
+  <a title="LeetCode" href="https://leetcode.com/nurmamatovnodirbek43/"><img width="35" src="./gfx/icons/leetcode.svg"></a>
+  <a title="Telegram" href="https://t.me/xurramovqahhor"><img width="35" src="./gfx/icons/telegram.svg"></a>
 </p>
 
 
